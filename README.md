@@ -6,7 +6,7 @@
 ![badge](https://img.shields.io/badge/Language-css-blue.svg)
 ![badge](https://img.shields.io/badge/Language-JavaScript-yellow.svg)   
 
-# Reference 
+## Reference 
 https://javascript30.com
 
 ## Author
