@@ -10,5 +10,5 @@
 https://javascript30.com
 
 ## Author
-[Sodai Hirano](https://github.com/tcnksm)
+[Sodai Hirano](https://github.com/Soddy-vx)
 
